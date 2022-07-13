@@ -1,5 +1,5 @@
 # remove_background
-repository for removing the background of an image and retaining only objects
+Remove the background of the image and keep only the object.
 
 ## Result
 
